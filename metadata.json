@@ -1,0 +1,8 @@
+{
+  "name": "SPORTSPHERE – Ultimate Sports, Fitness & Athletic Guide",
+  "description": "Comprehensive guide to sports, fitness, athlete training, nutrition, psychology, and the future of athletics with AEO question-answer format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
